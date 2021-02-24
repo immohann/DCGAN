@@ -1,2 +1,2 @@
 # DCGAN
-Building a TF based DCGAN   
+Building DCGAN to generate Dog images using PyTorch   
