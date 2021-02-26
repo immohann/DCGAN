@@ -4,6 +4,12 @@ Building DCGAN to generate Dog images using PyTorch
 ## Implementation
 Trained over 6000 dog images for 60 epochs
 
+
+## Input Image
+
+![Alt Text](dogs.png)
+
+
 ## Output
 
 End-product image:
